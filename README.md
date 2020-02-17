@@ -4,7 +4,7 @@ Django를 배윅 위해서 책을 보며 따라서 만든 웹 사이트 입니�
 
 Bookmark, Blog, Photo 애플리케이션이 구현되어 있습니다.
 
-개발환경은 아래와 같습니다.
+실습이 진행된 가상환경은 아래와 같습니다.
 
 |           Package           | Version |
 | :-------------------------: | :-----: |
@@ -12,6 +12,7 @@ Bookmark, Blog, Photo 애플리케이션이 구현되어 있습니다.
 |          autopep8           |   1.5   |
 |            cffi             | 1.14.0  |
 |        cryptography         |   2.8   |
+|           Python            |  3.8.1  |
 |           Django            |  3.0.3  |
 |     django-classy-tags      |  1.0.0  |
 |        django-taggit        |  1.2.0  |
